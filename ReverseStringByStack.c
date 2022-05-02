@@ -1,5 +1,6 @@
 //string reversal using stack
 #include <stdio.h>
+#include <string.h>
 
 void Reverse(char *c, int n)
 {
